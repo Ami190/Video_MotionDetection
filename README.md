@@ -1,9 +1,9 @@
-# Video_MotionDetection
+####   Video Motion Classification
 
-I have  dataset of videos with walking and jogging  for video classification, created a 3-D CNN model  implemented in Keras .
-I divide our approach into two parts :
+##### I have  dataset of videos with walking and jogging  for video classification, created a 3-D CNN model  implemented in Keras .
+##### I divide our approach into two parts :
 
- 1 .Create video files into tensors and store in npy files:
+##### 1 .Create video files into tensors and store in npy files:
 
 1) Download dataset
 2) Extract files and examine folder structure - each folder contains videos belonging to the category
